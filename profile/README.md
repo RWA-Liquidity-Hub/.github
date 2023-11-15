@@ -1,5 +1,7 @@
 # RWA Liquidity Hub (RLH)
 
+![RWA Liquidity Hub frontend](rlh_site.png)
+
 ## Vision
 
 **RLH** envisions a unified platform where liquidity for tokenized real-world assets (RWAs) across multiple blockchains can be seamlessly aggregated and accessed. By bringing tokenized assets into a single, user-friendly collateral market powered by AI, RLH aims to create a centralized marketplace with enhanced liquidity and efficiency for RWAs.
@@ -58,11 +60,21 @@ A typical user flow on RLH involves:
 
 RLH is built on a robust technological foundation that ensures its functionality and security:
 
-* **Permissionless Borrowing System:** RLH employs a permissionless borrowing system, allowing investors to access a wide range of RWAs without restrictions.
-
 * **RWA Wrapping Mechanism:** RLH utilizes a wrapping mechanism for RWAs, transforming them into fungible tokens compatible with DeFi protocols. As the RWA market matures, RLH plans to phase out this wrapping mechanism, enabling native RWA NFTs to be used as collateral.
 
+![RLH wrap-unwrap chart](rlh_wrapping.png)
+
+![RLH example pools chart](rlh_pools.png)
+
+* **Permissionless Borrowing System:** RLH employs a permissionless borrowing system, allowing investors to access a wide range of RWAs without restrictions.
+
+![RLH borrowing chart](rlh_borrow.png)
+
+![RLH repay chart](rlh_repay.png)
+
 * **AI-Powered Features:** RLH leverages AI to enhance the investor experience and simplify DeFi interactions:
+
+![RLH AI agents flow chart](rlh_agents.png)
 
     * **Personalized Recommendations:** AI agents analyze user preferences and risk profiles to provide personalized recommendations for investment opportunities.
 
