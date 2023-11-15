@@ -1,4 +1,4 @@
-# RLH (RWA Liquidity Hub)
+# RWA Liquidity Hub (RLH)
 
 ## Vision
 
