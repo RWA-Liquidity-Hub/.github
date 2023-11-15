@@ -74,8 +74,6 @@ RLH is built on a robust technological foundation that ensures its functionality
 
 * **AI-Powered Features:** RLH leverages AI to enhance the investor experience and simplify DeFi interactions:
 
-![RLH AI agents flow chart](rlh_agents.png)
-
     * **Personalized Recommendations:** AI agents analyze user preferences and risk profiles to provide personalized recommendations for investment opportunities.
 
     * **Risk Assessment and Mitigation:** Agents continuously monitor market conditions and assess potential risks, helping investors make informed decisions and mitigate potential losses.
@@ -83,6 +81,8 @@ RLH is built on a robust technological foundation that ensures its functionality
     * **Automated Execution of Transactions:** Agents can automate the execution of transactions, reducing the risk of errors and freeing up investors' time.
 
     * **Adaptive User Interfaces:** AI agents adapt the user interface to match the individual needs and preferences of each investor.
+
+![RLH AI agents flow chart](rlh_agents.png)
 
 ## Security Measures
 
