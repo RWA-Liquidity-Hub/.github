@@ -8,6 +8,7 @@ Use the following links to navigate and understand the `RWA Liquidity Hub` proje
 
 - [Demo video](https://youtu.be/glk_zKz8qpM)
 - [Demo site](https://rwa-liquidity-hub.vercel.app/)
+- [AI sourcecode](https://github.com/RWA-Liquidity-Hub/ai)
 - [Wrapping RWA sourcecode](https://github.com/RWA-Liquidity-Hub/wrapping-algokit)
 - [Bridging RLH sourcecode](https://github.com/RWA-Liquidity-Hub/wormhole-token-bridge)
 - [DeFi borrowing pool sourcecode](https://github.com/RWA-Liquidity-Hub/aave-v3-deploy)
