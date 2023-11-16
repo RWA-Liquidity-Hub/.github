@@ -4,7 +4,7 @@
 
 ## Navigating project
 
-Use this links to navigate and understand the `RWA Liquidity Hub` project.
+Use the following links to navigate and understand the `RWA Liquidity Hub` project in depth.
 
 - [Demo video](https://youtu.be/glk_zKz8qpM)
 - [Demo site](https://rwa-liquidity-hub.vercel.app/)
