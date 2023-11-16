@@ -1,6 +1,16 @@
-# RWA Liquidity Hub (RLH)
+# :bird: RWA Liquidity Hub (RLH)
 
 ![RWA Liquidity Hub frontend](rlh_site.png)
+
+## Navigating project
+
+Use this links to navigate and understand the `RWA Liquidity Hub` project.
+
+- [Demo video](https://youtu.be/glk_zKz8qpM)
+- [Demo site](https://rwa-liquidity-hub.vercel.app/)
+- [Wrapping RWA sourcecode](https://github.com/RWA-Liquidity-Hub/wrapping-algokit)
+- [Bridging RLH sourcecode](https://github.com/RWA-Liquidity-Hub/wormhole-token-bridge)
+- [DeFi borrowing pool sourcecode](https://github.com/RWA-Liquidity-Hub/aave-v3-deploy)
 
 ## Vision
 
